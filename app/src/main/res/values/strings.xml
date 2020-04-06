@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">AutoUpdater</string>
-    <string name="_1_0_0">1.0.0</string>
-    <string name="downloading">Downloading...</string>
+    <string name="downloading">Update downloading</string>
     <string name="title_file_download">APK is downloading</string>
     <string name="storage_access_required">Storage access is required to downloading the file.</string>
     <string name="storage_permission_denied">Storage permission request was denied.</string>
     <string name="ok">OK</string>
+    <string name="check_updates">Check updates</string>
+    <string name="new_version">New version available</string>
+    <string name="dialog_text">To continue working, you need to update the app.</string>
+    <string name="positive_button">Download and update now</string>
+    <string name="negative_button">Cancel and quit</string>
 </resources>
